@@ -1,5 +1,5 @@
 ### Description
-There is only one file in this project, file name: app.js, containing all of the features and functions.
+There is one main file in this project, file name: app.js, containing all of the features and functions.
 
 ### Demo
 * using ngrok to run this bot on your device: 
