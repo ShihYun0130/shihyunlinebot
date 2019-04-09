@@ -23,7 +23,6 @@ node app.js
   4. Enter what you want to know about iAmYunYun
   5. Click on the button that you want to talk to iAmYunYun
   6. Be happy to know make friend with iAmYunYun
-  7. Thank you, and nice to meet you!
 
 ### reference
 1. [line developer](https://developers.line.me/en/docs/messaging-api/getting-started/)
