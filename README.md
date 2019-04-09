@@ -19,7 +19,7 @@ node app.js
 * features:
   1. Add as friend
   2. Join it the a group
-  3. Say "你好" or "你好！" or "你好～" to the bot
+  3. Say "你好" or "你好！" or "你好～" to start chatting with iAmYunYun
   4. Enter what you want to know about iAmYunYun
   5. Click on the button that you want to talk to iAmYunYun
   6. Be happy to know make friend with iAmYunYun
