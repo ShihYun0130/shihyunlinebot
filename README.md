@@ -22,7 +22,7 @@ node app.js
   3. Say "你好" or "你好！" or "你好～" to start chatting with iAmYunYun
   4. Enter what you want to know about iAmYunYun
   5. Click on the button that you want to talk to iAmYunYun
-  6. Be happy to know make friend with iAmYunYun
+  6. Be happy to make friend with iAmYunYun
 
 ### reference
 1. [line developer](https://developers.line.me/en/docs/messaging-api/getting-started/)
